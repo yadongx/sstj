@@ -1,0 +1,15 @@
+<ion-view title="神兽前10名">
+  <ion-content class="has-header">
+    <ion-list>
+    <ion-item class="item item-avatar item-icon-right"  ng-repeat="item in top10" href="#/tab/friend/{{item.en}}" type="item-text-wrap" >
+    <img src="img/{{item.en}}.png">
+          <h2>{{item.title}}</h2>
+          <p>{{item.desc}}</p>
+          <i class="icon ion-ios7-arrow-right"></i>
+    </ion-item>
+    </ion-list>
+
+     </ion-content>
+ 
+</ion-view>
+

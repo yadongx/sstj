@@ -1,0 +1,26 @@
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes.dex : \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/R.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/R$xml.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/R$drawable.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/R$attr.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/HelloCordova.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/BuildConfig.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/com/ionicframework/starter/R$string.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/R.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/R$xml.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/R$drawable.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/R$attr.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/HelloCordova.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/BuildConfig.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/info/u250/sstj/R$string.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$integer.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$id.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$color.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$styleable.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$drawable.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$attr.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/classes/org/apache/cordova/R$string.class \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/dexedLibs/classes-a52b2e953a87069c85661b3e9d2532ae.jar \
+/home/lycy/codes/mythrilhorn/platforms/android/ant-build/dexedLibs/GoogleAdMobAdsSdk-6.4.1-c519464b662ed1a5ef17e1e47661d9f5.jar \

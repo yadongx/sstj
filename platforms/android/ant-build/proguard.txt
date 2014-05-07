@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:13
+-keep class com.google.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class info.u250.sstj.HelloCordova { <init>(...); }
+
