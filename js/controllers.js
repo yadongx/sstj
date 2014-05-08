@@ -15,7 +15,7 @@ angular.module('starter.controllers', [])
 
 })
 .controller('DashDetailCtrl', function($scope, $stateParams, Friends) {
-
+    (adsbygoogle = window.adsbygoogle || []).push({});
 })
 .controller('FriendsCtrl', function($scope, Friends) {
   $scope.friends = Friends.all();
