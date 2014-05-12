@@ -7,7 +7,7 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
-    <name>神兽图鉴</name>
+    <name>神兽十霸</name>
     <description>
         网络神兽
     </description>
